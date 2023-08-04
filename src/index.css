@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&display=swap");
+
+body {
+  font-family: "Almarai", sans-serif;
+}
+
+.MovieOverlayDetails {
+  background-color: hsla(0, 0%, 0%, 0.564) !important;
+  display: none;
+}
+
+.card:hover .MovieOverlayDetails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
