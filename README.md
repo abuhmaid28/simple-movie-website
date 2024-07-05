@@ -19,6 +19,7 @@ Animations: React Framer Motion library is used to add smooth animations to the 
 
 Deployment:
 The website is deployed using Firebase hosting, allowing it to be accessible online and easily shareable with others.
+Live demo : https://firstmovie-website.web.app/
 
 Skills Utilized:
 
